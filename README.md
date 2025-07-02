@@ -15,9 +15,7 @@ This project explores the Zomato Delivery Operations dataset to understand facto
 - Jupyter Notebook
 
 ## 📈 Key Insights
-- Ratings drop significantly during high traffic periods
-- [Your upcoming insight here]
-- [Your upcoming insight here]
+- 
 
 ## 📁 Folder Structure
 - `data/` - Raw and processed datasets
