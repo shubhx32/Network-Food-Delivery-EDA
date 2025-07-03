@@ -2,6 +2,8 @@
 
 This project explores the Zomato Delivery Operations dataset to understand factors impacting customer satisfaction and how they vary across different cities.
 
+![ERD Diagram](assets/ERD.svg)
+
 ## 🔍 Goals
 - Clean and enrich dataset with city-level labels
 - Analyze how delivery ratings are influenced by:
