@@ -20,9 +20,6 @@ This repository performs an **Exploratory Data Analysis (EDA)** on a food delive
 
 ---
 
-## 🗂 Project Structure
-![ERD Diagram](Assets/ERD.png)
-
 ## 🔍 Goals
 - Clean and enrich dataset with city-level and regional labels
 - Regional and territory level data reporting
@@ -44,6 +41,8 @@ Using restaurant clustering and lat-long data, each city was mapped to one of th
 
 This allowed region-wise benchmarking and operational performance comparison across India.
 
+![Preview of delivery territories](Assets/Delivery_network_map_preview.png)
+
 ## 📊 Visualizations Included
 
 - Box plots for delivery time and ratings by region
@@ -51,6 +50,8 @@ This allowed region-wise benchmarking and operational performance comparison acr
 - Heatmaps for regional demand
 - Distance vs time scatter plots
 - Correlation matrix for operational variables
+
+![Preview of delivery territories](Assets/city_level_boxplot.png)
 
 ## 🧩 Business Use Case
 
